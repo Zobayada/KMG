@@ -1777,7 +1777,10 @@ a {
   background: #ffffff4d;
   background-position: 100% 0;
 }
-
+/* @media (max-width:991px){
+  .navbar-nav li{
+    padding: 0;
+} */
   /* Main Menu */
   .main-navigation {
     position      : relative;
